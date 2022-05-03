@@ -6,7 +6,7 @@ Given a dataset of TV Series data, build a machine learning model that can predi
 ## Note
 
 1. The dataset is in CSV format, with first row being the header. Header should be self explanatory, but please ask questions if in doubt.
-2. `wikidata_genre_labels` contains the label (independent variable)
+2. `wikidata_genre_labels` contains the labels (independent variable)
 3. Each record can have multiple labels. This is a multi class classification problem.
 
 
